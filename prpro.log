@@ -1,0 +1,1034 @@
+[03:55:59.079] (debug) src\Controller.cpp:858: Using OEM C:\Program Files (x86)\PHOTORECOVERY Professional 2015\/PR5.OEM
+[03:55:59.079] (debug) src\LUAVM.cpp:94: Loading lua source.
+[03:55:59.126] (debug) src\Controller.cpp:156: AVF 5.1.2.4 AVS 5.1
+[03:55:59.126] (debug) src\Controller.cpp:161: OS: MajorVersion 6 MinorVersion 1 Build 7601
+[03:55:59.126] (debug) src\Controller.cpp:162: OS: CSDVersion Service Pack 1
+[03:55:59.126] (debug) src\Controller.cpp:163: OS: SPMajor 1 SPMinor 0
+[03:55:59.126] (debug) src\Controller.cpp:176: OS: ProductType 1 NT_WORKSTATION
+[03:55:59.126] (debug) src\Controller.cpp:199: OS: SuiteMask 256 - SINGLEUSERTS
+[03:55:59.126] (debug) src\Controller.cpp:213: DebugBasePath ''
+[03:55:59.126] (debug) src\Controller.cpp:214: ApplicationRootPath 'C:\Program Files (x86)\PHOTORECOVERY Professional 2015\'
+[03:55:59.126] (debug) src\Controller.cpp:215: ApplicationResourcePath 'C:\Program Files (x86)\PHOTORECOVERY Professional 2015\'
+[03:55:59.126] (debug) src\Controller.cpp:216: ApplicationExecutablePath 'C:\Program Files (x86)\PHOTORECOVERY Professional 2015\'
+[03:55:59.126] (debug) src\Controller.cpp:217: UserDataPath 'C:\Users\Pavel\AppData\Local'
+[03:55:59.126] (debug) src\Controller.cpp:218: AppUserDataPath 'C:\Users\Pavel\AppData\Local\LC Technology Inc\PHOTORECOVERY PRO'
+[03:55:59.126] (debug) src\Controller.cpp:219: UserHomePath 'C:\Users\Pavel'
+[03:55:59.126] (debug) src\Controller.cpp:220: ExecutableName 'PR5.exe' - 'C:\Program Files (x86)\PHOTORECOVERY Professional 2015\PR5.exe'
+[03:55:59.126] (debug) src\Controller.cpp:221: StartupPath 'C:\Program Files (x86)\PHOTORECOVERY Professional 2015\'
+[03:55:59.126] (debug) src\Controller.cpp:223: SingleInstanceID 'PRPRO'
+[03:55:59.126] (debug) src\Controller.cpp:229: RegistryPath HKCU/SOFTWARE/LC Technology Inc/PHOTORECOVERY PRO/5.0
+[03:55:59.126] (debug) src\RunModeHandlerLicman.cpp:249: Using liclang ru
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:119: File Type ID;Extension;Category;Name;Content Handler ID;Content Handler Name;MinSize;MaxSize
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: 123;123;Document;Lotus 1-2-3 File;ContentRecognizer123;Lotus 1-2-3 File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: 12M;12m;Document;Lotus 1-2-3 File;ContentRecognizer12M;Lotus 1-2-3 File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: 16SV;16sv;Audio;EA IFF 16SV sound;ContentRecognizerAIFF;AIFF/AIFC Sound;32;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: 3DM;3dm;Document;OS/X QuickDraw 3D;ContentRecognizer3DM;OS/X QuickDraw 3D;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: 3FR;3fr;Image;Hasselblad 3FR Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: 3G2;3g2;Video;3GPP2 Multimedia;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: 3GP;3gp;Video;3GPP Multimedia;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: 68K;68k;Other;OS/X System File;ContentRecognizer68K;OS/X System File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: 8SVX;8svx;Audio;EA IFF 85 8-bit sound;ContentRecognizerAIFF;AIFF/AIFC Sound;32;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: AAC;aac;Audio;Advanced Audio Coding Stream;ContentRecognizerAdvancedAudioCoding;Advanced Audio Coding;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ADM;adm;Document;Microsoft System Policy Template;ContentRecognizerADM;Microsoft System Policy Template;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: AFM;afm;Document;Adobe Font Metrics;ContentRecognizerAFM;Adobe Font Metrics;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: AI;ai;Document;Adobe Illustrator;ContentRecognizerPDF;Portable Document Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: AIFC;aifc;Audio;Compressed Audio Interchange File Format;ContentRecognizerAIFF;AIFF/AIFC Sound;32;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: AIFF;aif;Audio;Audio Interchange File Format;ContentRecognizerAIFF;AIFF/AIFC Sound;32;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: AMR;amr;Audio;Adaptive Multi-Rate Audio;ContentRecognizerAMR;Adaptive Multi-Rate;512;16777216
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ANI;ani;Image;Animated Cursor;ContentRecognizerResourceInterchangeFileFormat;Resource Interchange File Format;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ANIM;anim;Image;Cel Animation;ContentRecognizerAIFF;AIFF/AIFC Sound;32;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ANM;anm;Image;DeluxePaint File;ContentRecognizerANM;DeluxePaint File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: APD;apd;Document;Lotus Printer Driver;ContentRecognizerAPD;Lotus Printer Driver;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: AR;a;Archive;Unix ar Archive;ContentRecognizerUnixArchive;Unix ar Archive;32;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ARJ;arj;Archive;Archived by Robert Jung;ContentRecognizerArchiverRobertJung;Archived by Robert Jung;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ARW;arw;Image;Sony ARW Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ASF;asf;Video;Advanced Systems Format;ContentRecognizerAdvancedSystemsFormat;Advanced Systems Format;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: AU;au;Audio;Sun Audio File;ContentRecognizerAU;Sun Audio File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: AVI;avi;Video;Audio Video Interleave File;ContentRecognizerResourceInterchangeFileFormat;Resource Interchange File Format;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: AW;aw;Document;Microsoft Answer Wizard;ContentRecognizerAW;Microsoft Answer Wizard;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: AdobeDCR;dcr;Other;Adobe Director Compressed Resource;ContentRecognizerAdobeDirectorCompressedResource;Adobe Director Compressed Resource;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: BDR;bdr;Document;Microsoft Border Support;ContentRecognizerBDR;Microsoft Border Support;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: BMP;bmp;Image;Windows Bitmap;ContentRecognizerBitmap;Windows Bitmap;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: BMPRaw;raw;Image;Windows Bitmap Data;ContentRecognizerBitmap;Windows Bitmap;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: BOO;boo;Document;Adobe FrameMaker;ContentRecognizerBOO;Adobe FrameMaker;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: BQY;bqy;Document;BrioQuery;ContentRecognizerBQY;BrioQuery;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: BTR;btr;Document;Btrieve Database;ContentRecognizerBTR;Btrieve Database;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CAB;cab;Archive;Cabinet File;ContentRecognizerCabinet;Microsoft Cabinet;512;1073741824
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CCP;ccp;Document;AutoCAD File;ContentRecognizerCCP;AutoCAD File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CDD;cdd;Image;CorelDraw File;ContentRecognizerCDD;CorelDraw File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CDR;cdr;Image;CorelDraw CDR Image;ContentRecognizerResourceInterchangeFileFormat;Resource Interchange File Format;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CDT;cdt;Image;CorelDraw CDT Template;ContentRecognizerResourceInterchangeFileFormat;Resource Interchange File Format;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CGD;cgd;Image;CricketGraph;ContentRecognizerCGD;CricketGraph;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CGG;cgg;Image;CricketGraph;ContentRecognizerCGG;CricketGraph;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CGT;cgt;Image;CorelDraw Template;ContentRecognizerCGT;CorelDraw Template;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CHM;chm;Document;Microsoft Compiled Help;ContentRecognizerCHM;Compiled HTML Help;32;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CLASS;class;Document;Java class file;ContentRecognizerCLASS;Java class file;128;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CLX;clx;Document;Dictionary File;ContentRecognizerCLX;Dictionary File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CMX;cmx;Image;CorelDraw CMX Metafile;ContentRecognizerResourceInterchangeFileFormat;Resource Interchange File Format;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CNT;cnt;Document;Microsoft Help Content File;ContentRecognizerCNT;Microsoft Help Content File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CPI;cpi;Document;Microsoft International Code Page;ContentRecognizerCPI;Microsoft International Code Page;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CR2;cr2;Image;Canon CR2 Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CRV;crv;Document;Corel Photo Paint Tone Curve File;ContentRecognizerCRV;Corel Photo Paint Tone Curve File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CRW;crw;Image;Canon CRW Raw Image;ContentRecognizerCanonCRW;Canon CRW;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CS1;cs1;Image;Sinar CS1 Image;ContentRecognizerPhotoShopData;PhotoShop Data;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CUR;cur;Other;Cursor;ContentRecognizerIconCursor;Windows Icon And Cursor;32;262144
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CV5;cv5;Image;Canvas;ContentRecognizerCV5;Canvas;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CVI;cvi;Document;CVI File;ContentRecognizerCVI;CVI File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: CWL;cwl;Document;ClarisWorks Library File;ContentRecognizerCWL;ClarisWorks Library File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DC2;dc2;Image;Kodak DC2;ContentRecognizerKodakDC2;Kodak DC2;512;16777216
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DCA;dca;Document;IBM Displaywrite;ContentRecognizerDCA;IBM Displaywrite;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DCR;dcr;Image;Kodak DCR Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DEB;deb;Archive;Debian package;ContentRecognizerUnixArchive;Unix ar Archive;32;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DLL;dll;Document;Dynamic Link Library;ContentRecognizerPortableExecutable;Portable Executable;4096;1073741824
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DLS;dls;Image;Downloadable Sound;ContentRecognizerResourceInterchangeFileFormat;Resource Interchange File Format;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DNG;dng;Image;Digital Negative;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DOC;doc;Document;Microsoft Word Document;ContentRecognizerOLEStream;Microsoft OLE Stream;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DOCX;docx;Document;Word Open XML Document;ContentRecognizerZIP;ZIP Archive;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DOT;dot;Document;Microsoft Word Template;ContentRecognizerOLEStream;Microsoft OLE Stream;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DRW;drw;Document;Micrografx Designer File;ContentRecognizerDRW;Micrografx Designer File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DS2;ds2;Audio;Digital Speech Standard 2;ContentRecognizerDigitalSpeechStandard;Digital Speech Standard;512;16777216
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DSN;dcn;Document;Microsoft ODBC Data Source;ContentRecognizerDSN;Microsoft ODBC Data Source;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DSS;dss;Audio;Digital Speech Standard;ContentRecognizerDigitalSpeechStandard;Digital Speech Standard;512;16777216
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DUN;dun;Document;Microsoft Dial-up Numbers;ContentRecognizerDUN;Microsoft Dial-up Numbers;256;1000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DWG;dwg;Document;AutoCAD Drawing;ContentRecognizerAutocadDrawing;AutoCAD Drawing;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: DXF;dxf;Document;AutoCAD Data Exchange File;ContentRecognizerDXF;AutoCAD Data Exchange File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: EBX;ebx;Document;Exceed Basic Compiler;ContentRecognizerEBX;Exceed Basic Compiler;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ECF;ecf;Document;Microsoft Extension Configuration;ContentRecognizerECF;Microsoft Extension Configuration;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: EDB;edb;Document;Microsoft Exchange Server Database;ContentRecognizerEDB;Microsoft Exchange Server Database;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: EMF;emf;Image;Enhanced Metafile;ContentRecognizerWindowsMetaFile;Windows MetaFile;128;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: EPS;eps;Document;Encapsulated PostScript;ContentRecognizerPDF;Portable Document Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ERF;erf;Image;Seiko Epson ERF Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: EXE;exe;Document;Executable;ContentRecognizerPortableExecutable;Portable Executable;4096;1073741824
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: EudoraMBX;mbx;Document;Eudora Mail File;ContentRecognizerEudoraMBX;Eudora Mail File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ExifJPEG;jpg;Image;Exif JPEG;ContentRecognizerExifJPEG;Exif JPEG;512;33554432
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: F4A;f4a;Audio;Audio for Adobe Flash Player 9+;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: F4B;f4b;Audio;Audio Book for Adobe Flash Player 9+;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: F4P;f4p;Video;Protected Video for Adobe Flash Player 9+;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: F4V;f4v;Video;Video for Adobe Flash Player 9+;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: FFF;fff;Image;Hasselblad FFF Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: FFX;ffx;Document;Microsoft Full-text Index;ContentRecognizerFFX;Microsoft Full-text Index;512;128000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: FH3;fh3;Image;Aldus Freehand File;ContentRecognizerFH3;Aldus Freehand File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: FH8;fh8;Image;Aldus Freehand File;ContentRecognizerFH8;Aldus Freehand File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: FH9;fh9;Image;Aldus Freehand File;ContentRecognizerFH9;Aldus Freehand File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: FLV;flv;Video;Adobe FLV Video;ContentRecognizerFLV;Adobe FLV Video;512;2147483648
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: FM;fm;Document;FileMakes Pro;ContentRecognizerFM;FileMakes Pro;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: FM3;fm3;Document;Lotus 1-2-3 FM3;ContentRecognizerFM3;Lotus 1-2-3 FM3;128;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: FMB;fmb;Document;Lotus 1-2-3 FMB;ContentRecognizerFMB;Lotus 1-2-3 FMB;128;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: FTS1;fts;Document;Microsoft Full-Text Search Index;ContentRecognizerFTS1;Microsoft Full-Text Search Index;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: FTS2;fts;Document;Microsoft Full-Text Search Index;ContentRecognizerFTS2;Microsoft Full-Text Search Index;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: GIF;gif;Image;Graphical Interchange Format;ContentRecognizerGraphicsInterchangeFormat;Graphics Interchange Format;32;2097152
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: GenericJPEG;jpg;Image;Generic JPEG;ContentRecognizerGenericJPEG;Generic JPEG;512;33554432
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: HDR;hdr;Image;High Dynamic Range Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: HLP;hlp;Document;Microsoft Help File;ContentRecognizerHLP;Microsoft Help File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: HQX;hqx;Archive;OS/X BinHex Compressed File;ContentRecognizerHQX;OS/X BinHex Compressed File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: IA;ia;Image;Sinar IA Image;ContentRecognizerSinarIA;Sinar IA;512;268435456
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ICM;icm;Document;Kodak Image Color Matching File;ContentRecognizerICM;Kodak Image Color Matching File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ICO;ico;Other;Icon;ContentRecognizerIconCursor;Windows Icon And Cursor;32;262144
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ICW;icw;Document;Microsoft Internet Connection Wizard;ContentRecognizerICW;Microsoft Internet Connection Wizard;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: IDF;idf;Document;MIDI Instrument Definition;ContentRecognizerIDF;MIDI Instrument Definition;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: IDX;idx;Document;Outlook Express Index File;ContentRecognizerIDX;Outlook Express Index File;512;128000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: IFF;iff;Document;Interchange File Format;ContentRecognizerAIFF;AIFF/AIFC Sound;32;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ILBM;ilbm;Image;EA Raster Bitmap;ContentRecognizerAIFF;AIFF/AIFC Sound;32;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ILK;ilk;Document;Microsoft Linker Database;ContentRecognizerILK;Microsoft Linker Database;512;128000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: IMG;img;Image;GEM Raster File;ContentRecognizerIMG;GEM Raster File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: IND;ind;Document;Microsoft Full-text Search Index;ContentRecognizerIND;Microsoft Full-text Search Index;512;128000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ISU;isu;Document;Microsoft Uninstall Script;ContentRecognizerISU;Microsoft Uninstall Script;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: JAR;jar;Other;Java JAR file;ContentRecognizerZIP;ZIP Archive;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: JFIFJPEG;jpg;Image;JFIF JPEG;ContentRecognizerJFIFJPEG;JFIF JPEG;128;33554432
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: JP2;jp2;Image;JPEG 2000 Image;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: JPM;jpm;Image;JPEG 2000 Compound Image;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: JPX;jpx;Image;JPEG 2000 with extensions;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: JTD;jtd;Document;Ichitaro Document;ContentRecognizerOLEStream;Microsoft OLE Stream;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: K25;k25;Image;Kodak K25 Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: KDC;kdc;Image;Kodak KDC Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: KodakCommonInfoRAW;raw;Image;Kodak CommonInfo Raw Image;ContentRecognizerKodakCommonInfoRAW;Kodak CommonInfo RAW;512;16777216
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: LDB;ldb;Document;Microsoft Access Record-Locking Info;ContentRecognizerLDB;Microsoft Access Record-Locking Info;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: LIB;lib;Document;Microsoft Static Library;ContentRecognizerLIB;Microsoft Static Library;512;512000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: LNK;lnk;Document;Microsoft Shortcut File;ContentRecognizerLNK;Microsoft Shortcut File;32;2048
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: LWP;lwp;Document;WordPro File;ContentRecognizerLWP;WordPro File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: LeicaPanasonicRAW;raw;Image;Panasonic RAW Raw Image;ContentRecognizerPanasonicRAW;Panasonic/Leica Raw;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: LotusFMT;fmt;Document;Lotus 1-2-3 FMT;ContentRecognizerLotusFMT;Lotus 1-2-3 FMT;128;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: M4A;m4a;Audio;MPEG-4 Audio;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: M4B;m4b;Audio;Apple iTunes AAC-LC Audio Book;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: M4P;m4p;Audio;Apple iTunes AAC-LC AES Protected Audio;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: M4V;m4v;Video;MPEG-4 Video;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MAC;mac;Image;MacPaint File;ContentRecognizerMAC;MacPaint File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MAF;maf;Image;Photo Player MAF;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MBD;mbd;Document;Mbedlet File;ContentRecognizerMBD;Mbedlet File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MBW;mbw;Document;Mbed Wizard File;ContentRecognizerMBW;Mbed Wizard File;256;8000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MCD;mcd;Document;MathCad Document;ContentRecognizerMCD;MathCad Document;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MDB;mdb;Document;Microsoft Access Database;ContentRecognizerMDB;Microsoft Access Database;512;512000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MEF;mef;Image;Mamiya MEF Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MID;mid;Audio;Musical Instrument Digital Interface;ContentRecognizerMusicalInstrumentDigitalInterface;Musical Instrument Digital Interface;64;4194304
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MIF;mif;Document;Microsoft Management Info;ContentRecognizerMIF;Microsoft Management Info;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MJ2S;mjp;Video;Motion JPEG 2000 Simple Profile;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MJP2;mjp;Video;Motion JPEG 2000 General Profile;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MLV;mlv;Video;Magic Lantern Video;ContentRecognizerMagicLantern;MagicLantern;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MOD;mod;Video;Canon MOD MPEG-2 Video;ContentRecognizerMPEG;Motion Picture Experts Group Video;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MOS;mos;Image;Leaf MOS Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MOV;mov;Video;Apple QuickTime Video;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MP3;mp3;Audio;Moving Picture Experts Group 3 Audio;ContentRecognizerMPEG3;Moving Picture Experts Group 3 Audio;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MP4;mp4;Video;MPEG-4 Multimedia;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MPD;mpd;Document;Microsoft Miniport Driver;ContentRecognizerMPD;Microsoft Miniport Driver;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MPEG1;mpg;Video;MPEG-1 Video;ContentRecognizerMPEG;Motion Picture Experts Group Video;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MPEG2;mpg;Video;MPEG-2 Video;ContentRecognizerMPEG;Motion Picture Experts Group Video;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MPO;mpo;Other;Multiple Picture Objects;ContentRecognizerExifJPEG;Exif JPEG;512;33554432
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MRW;mrw;Image;Minolta MRW Raw Image;ContentRecognizerMinoltaMRW;Minolta MRW;512;67108864
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MSNV;mp4;Video;Sony PSP MPEG-4 Video;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MSV;msv;Audio;Sony Digital Voice Recorder File;ContentRecognizerMSV;Sony Digital Voice Recorder File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MTS;mts;Video;MPEG Transport Stream;ContentRecognizerMTS;MPEG Transport Stream;37600;17179869184
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MXF;mxf;Video;MXF Video;ContentRecognizerMXF;MXF Video;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MapGuidePDB;pdb;Document;Map & Guide Palm Database File;ContentRecognizerMapGuidePDB;Map & Guide Palm Database File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MicrosoftFMT;fmt;Document;Microsoft Printer Driver;ContentRecognizerMicrosoftFMT;Microsoft Printer Driver;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: MicrosoftPDB;pdb;Document;Microsoft C/C++ program database;ContentRecognizerMicrosoftPDB;Microsoft C/C++ program database;512;128000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: NDF;ndf;Image;Nikon NDF Raw Image;ContentRecognizerNikonNDF;Nikon NDF;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: NEF;nef;Image;Nikon Electronic Format Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: NLM;nlm;Document;NetWare Loadable Module;ContentRecognizerNLM;NetWare Loadable Module;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: NRW;nrw;Image;Nikon NRW Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: NSF;nsf;Document;Lotus Notes File;ContentRecognizerNSF;Lotus Notes File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: NTF;ntf;Document;Lotus Notes File;ContentRecognizerNTF;Lotus Notes File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: OGG;ogg;Audio;OGG Container;ContentRecognizerOGG;OGG Container;128;33554432
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: OLEStream;ole;Other;Microsoft Generic OLE Stream;ContentRecognizerOLEStream;Microsoft OLE Stream;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ORF;orf;Image;Olympus ORF Raw Image;ContentRecognizerOlympusORF;Olympus ORF LSB;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: OTP;otp;Document;CFW Graphics 3D CADE Plot;ContentRecognizerOTP;CFW Graphics 3D CADE Plot;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: OutlookMBX;mbx;Document;Outlook Express Mailbox;ContentRecognizerOutlookMBX;Outlook Express Mailbox;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: P3C;p3c;Document;Project Planner Compressed File;ContentRecognizerP3C;Project Planner Compressed File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PAT;pat;Image;CorelDraw Pattern File;ContentRecognizerResourceInterchangeFileFormat;Resource Interchange File Format;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PBD;pbd;Document;PowerBuilder File;ContentRecognizerPBD;PowerBuilder File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PCX;pcx;Image;Paintbrush PCX;ContentRecognizerZSoftPCX;ZSoft PCX;512;33554432
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PDF;pdf;Document;Portable Document File;ContentRecognizerPDF;Portable Document Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PEF;pef;Image;Pentax Electronic File Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PFB;pfb;Document;Adobe Font File;ContentRecognizerPFB;Adobe Font File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PIC;pic;Image;OS/X QuickDraw File;ContentRecognizerPIC;OS/X QuickDraw File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PKR;pkr;Document;PGP public keyring;ContentRecognizerPKR;PGP public keyring;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PNG;png;Image;Portable Network Graphics;ContentRecognizerPortableNetworkGraphics;Portable Network Graphics;64;16777216
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PP5;pp5;Image;Picture Publisher File;ContentRecognizerPP5;Picture Publisher File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PPC;ppc;Document;OS/X System File;ContentRecognizerPPC;OS/X System File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PPT;ppt;Document;Microsoft PowerPoint Document;ContentRecognizerOLEStream;Microsoft OLE Stream;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PPTX;pptx;Document;Power Point Open XML Document;ContentRecognizerZIP;ZIP Archive;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PRC1;prc;Document;Palm Application/Library;ContentRecognizerPRC1;Palm Application/Library;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PRC2;prc;Document;Palm Application/Library;ContentRecognizerPRC2;Palm Application/Library;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PRE;pre;Document;Freelance Presentation File;ContentRecognizerPRE;Freelance Presentation File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PRZ;prz;Document;Freelance Graphics 97 File;ContentRecognizerPRZ;Freelance Graphics 97 File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PSD;psd;Image;Adobe Photoshop Document;ContentRecognizerPhotoShopData;PhotoShop Data;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PSP;psp;Image;PaintShop Pro;ContentRecognizerPaintShopPro;Paint Shop Pro Image;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PT;pt;Document;Kodak Precision Transform File;ContentRecognizerPT;Kodak Precision Transform File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PUB;pub;Document;Microsoft Publisher Document;ContentRecognizerOLEStream;Microsoft OLE Stream;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PWD;pwd;Document;Pocket WordPad Document;ContentRecognizerPWD;Pocket WordPad Document;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PWL;pwl;Document;Microsoft Windows password file;ContentRecognizerPWL;Microsoft Windows password file;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PWP;pwp;Document;Photoworks Album;ContentRecognizerPWP;Photoworks Album;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PalmMidiPDB;pdb;Audio;Palm System Midi Sounds;ContentRecognizerPalmMidiPDB;Palm System Midi Sounds;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: PhaseOneRawTIF;tif;Image;Phase One Raw Image;ContentRecognizerPhaseOneRawTIF;Phase One Raw;512;268435456
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: QBW;qbw;Document;Intuit Quickbook Windows;ContentRecognizerQBW;Intuit Quickbook Windows;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: QDA;qda;Document;Generic Analysis Chart;ContentRecognizerQDA;Generic Analysis Chart;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: QTK;qtk;Image;Apple QuickTake;ContentRecognizerAppleQuickTake;Apple QuickTake;512;16777216
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: QXD;qxd;Document;QuarkXpress File;ContentRecognizerQXD;QuarkXpress File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: R3D;r3d;Video;Redcode Video;ContentRecognizerRedcode;Redcode;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: RA;ra;Audio;Real Audio;ContentRecognizerRealAudio;Real Audio;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: RAF;raf;Image;Fuji RAF Raw Image;ContentRecognizerFujifilmRAF;Fujifilm RAF;512;67108864
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: RAR;rar;Archive;Roshal Archive;ContentRecognizerRoshalArchive;Roshal Archive;512;1073741824
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: REG;reg;Document;Regedit File;ContentRecognizerREG;Regedit File;64;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: RIFF;riff;Other;RIFF Container File;ContentRecognizerResourceInterchangeFileFormat;Resource Interchange File Format;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: RMA;ra;Audio;Real Media Audio;ContentRecognizerRealMedia;Real Media;512;1073741824
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: RMI;rmi;Audio;RMID MIDI;ContentRecognizerResourceInterchangeFileFormat;Resource Interchange File Format;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: RMV;rm;Video;Real Media Video;ContentRecognizerRealMedia;Real Media;512;1073741824
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: RTF;rtf;Document;Rich Text Format;ContentRecognizerRTF;Rich Text Format;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: RW2;rw2;Image;Panasonic RW2 Raw Image;ContentRecognizerPanasonicRAW;Panasonic/Leica Raw;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: RegistryData;dat;Document;Microsoft Registry File;ContentRecognizerRegistryData;Microsoft Registry File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SAM;sam;Document;Ami Pro;ContentRecognizerSAM;Ami Pro;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SCC;scc;Document;Microsoft Source Code Control;ContentRecognizerSCC;Microsoft Source Code Control;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SCD;scd;Document;Microsoft Schedule +;ContentRecognizerSCD;Microsoft Schedule +;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SCM;scm;Document;Lotus ScreenCam;ContentRecognizerSCM;Lotus ScreenCam;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SFW;sfw;Image;Photoworks File;ContentRecognizerSFW;Photoworks File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SHX;shx;Document;Autodesk Compiled Shape File;ContentRecognizerSHX;Autodesk Compiled Shape File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SIT;sit;Archive;Stuff It Expander;ContentRecognizerSIT;Stuff It Expander;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SKM;skm;Video;SKM Video;ContentRecognizerQuickTime;QuickTime;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SKR;skr;Document;PGP secret keyring;ContentRecognizerSKR;PGP secret keyring;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SLB;slb;Document;AutoCAD Slide Library;ContentRecognizerSLB;AutoCAD Slide Library;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SLD;sld;Document;AutoCAD Slide;ContentRecognizerSLD;AutoCAD Slide;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SMI;smi;Document;Lotus SmartIcon;ContentRecognizerSMI;Lotus SmartIcon;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SPA;spa;Document;Spectral Data File;ContentRecognizerSPA;Spectral Data File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SR2;sr2;Image;Sony SR2 Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SRF;srf;Image;Sony SRF Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: STI;sti;Image;Sinar STI Raw Image;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SWF;swf;Other;Shockwave Flash;ContentRecognizerShockwaveFlash;Shockwave Flash;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: SXC;sxc;Document;StarOffice Spreadsheet;ContentRecognizerZIP;ZIP Archive;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: TAR;tar;Archive;Tape Archive;ContentRecognizerTapeArchive;Tape Archive;512;1073741824
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: TEX;tex;Image;Corel Texture;ContentRecognizerTEX;Corel Texture;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: TIFF;tif;Image;Tagged Image File Format;ContentRecognizerTaggedImageFileFormat;Tagged Image File Format;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: TLB;tlb;Document;Microsoft OLE type library;ContentRecognizerTLB;Microsoft OLE type library;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: TLX;tlx;Document;Dictionary File;ContentRecognizerTLX;Dictionary File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: TTF;ttf;Document;TrueType Font;ContentRecognizerTTF;TrueType Font;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: UPI;upi;Image;Ulead PhotoImpact File Object;ContentRecognizerUPI;Ulead PhotoImpact File Object;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: URL;url;Document;Internet Shortcut;ContentRecognizerURL;Internet Shortcut;12;512
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: USR;usr;Document;Corel Photo-Paint User Defined File;ContentRecognizerUSR;Corel Photo-Paint User Defined File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: VOC;voc;Audio;Creative Voice File;ContentRecognizerVOC;Creative Voice File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: VSD;vsd;Document;Microsoft Visio File;ContentRecognizerVSD;Microsoft Visio File;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: WAV;wav;Audio;WAVE Audio;ContentRecognizerResourceInterchangeFileFormat;Resource Interchange File Format;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: WEBP;webp;Image;WebP Image;ContentRecognizerResourceInterchangeFileFormat;Resource Interchange File Format;512;4294967296
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: WK1;wk1;Document;Lotus 1-2-3 WK1;ContentRecognizerWK1;Lotus 1-2-3 WK1;128;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: WK3;wk3;Document;Lotus 1-2-3 WK3;ContentRecognizerWK3;Lotus 1-2-3 WK3;128;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: WK4;wk4;Document;Lotus 1-2-3 WK4;ContentRecognizerWK4;Lotus 1-2-3 WK4;128;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: WMA;wma;Audio;Windows Media Audio;ContentRecognizerAdvancedSystemsFormat;Advanced Systems Format;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: WMF;wmf;Image;Windows Metafile;ContentRecognizerWindowsMetaFile;Windows MetaFile;128;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: WMV;wmv;Video;Windows Media Video;ContentRecognizerAdvancedSystemsFormat;Advanced Systems Format;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: WRI;wri;Document;Microsoft Write;ContentRecognizerWRI;Microsoft Write;512;32000000
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: X3F;x3f;Image;Foveon X3F Raw Image;ContentRecognizerFoveonX3F;Foveon X3F;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: XLS;xls;Document;Microsoft Excel Document;ContentRecognizerOLEStream;Microsoft OLE Stream;512;134217728
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: XLSX;xlsx;Document;Excel Open XML Document;ContentRecognizerZIP;ZIP Archive;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ZIP;zip;Archive;ZIP Archive;ContentRecognizerZIP;ZIP Archive;512;536870912
+[03:56:01.452] (debug) src\ContentTypeRegister.cpp:121: ZOO;zoo;Archive;ZOO Archive;ContentRecognizerZOO;ZOO Archive;512;32000000
+[03:56:01.452] (info) Win32\src\DeviceManagerImpl.cpp:49: Version: Major 6 Minor 1 Build 7601 PlatformId 2 CSDVersion Service Pack 1 SPMajor 1 SPMinor 0 SuiteMask 256 ProductType 1
+[03:56:01.483] (debug) src\ManagerWin.cpp:55: rescanDevices
+[03:56:01.483] (debug) src\ManagerWin.cpp:65: CoCreateInstance MsftDiscMaster2
+[03:56:01.499] (debug) src\ManagerWin.cpp:71: CoCreateInstance MsftDiscMaster2 succeeded
+[03:56:01.499] (debug) src\ManagerWin.cpp:78: DiscMaster.Count = 1
+[03:56:01.499] (debug) src\ManagerWin.cpp:88: DiscMaster device found: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:01.499] (debug) src\DeviceWin.cpp:213: init \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:01.514] (debug) src\DeviceWin.cpp:220: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: CoCreateInstance MsftDiscRecorder2 succeded
+[03:56:01.514] (debug) src\DeviceWin.cpp:233: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: InitializeDiscRecorder succeded
+[03:56:01.514] (debug) src\DeviceWin.cpp:242: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: QueryInterface IID_IDiscRecorder2Ex succeded
+[03:56:01.514] (debug) src\DeviceWin.cpp:248: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: CoCreateInstance MsftDiscFormat2Data succeded
+[03:56:01.514] (error) src\DeviceWin.cpp:251: put_Recorder failed:  (c0aa0407)
+[03:56:01.514] (debug) src\DeviceWin.cpp:265: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: readProperties
+[03:56:01.514] (debug) src\DeviceWin.cpp:17: readStringProp: Instance=00DBCDCC FuncName=get_ProductId
+[03:56:01.514] (debug) src\DeviceWin.cpp:28: readStringProp: Instance=00DBCDCC FuncName=get_ProductId succeded, value is 'BDROM           '
+[03:56:01.514] (debug) src\DeviceWin.cpp:17: readStringProp: Instance=00DBCDCC FuncName=get_VendorId
+[03:56:01.514] (debug) src\DeviceWin.cpp:28: readStringProp: Instance=00DBCDCC FuncName=get_VendorId succeded, value is 'DTSOFT  '
+[03:56:01.514] (debug) src\DeviceWin.cpp:17: readStringProp: Instance=00DBCDCC FuncName=get_ProductRevision
+[03:56:01.514] (debug) src\DeviceWin.cpp:28: readStringProp: Instance=00DBCDCC FuncName=get_ProductRevision succeded, value is '1.05'
+[03:56:01.514] (debug) src\DeviceWin.cpp:17: readStringProp: Instance=00DBCDCC FuncName=get_VolumeName
+[03:56:01.514] (debug) src\DeviceWin.cpp:28: readStringProp: Instance=00DBCDCC FuncName=get_VolumeName succeded, value is '\\?\Volume{2180504b-4dd8-11e5-a77b-d8cb8a55db56}\'
+[03:56:01.514] (debug) src\DeviceWin.cpp:267: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: readVolumePathNames
+[03:56:01.514] (debug) src\DeviceWin.cpp:287: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: get_VolumePathNames succeded
+[03:56:01.514] (debug) src\DeviceWin.cpp:310: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: VolumePathName iteration completed
+[03:56:01.514] (debug) src\DeviceWin.cpp:269: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: readSupportedProfiles
+[03:56:01.514] (debug) src\DeviceWin.cpp:327: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: get_SupportedProfiles succeded
+[03:56:01.514] (debug) src\DeviceWin.cpp:335: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: SupportedProfiles element 0 is 64
+[03:56:01.514] (debug) src\DeviceWin.cpp:335: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: SupportedProfiles element 1 is 16
+[03:56:01.514] (debug) src\DeviceWin.cpp:335: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: SupportedProfiles element 2 is 8
+[03:56:01.514] (debug) src\DeviceWin.cpp:345: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: SupportedProfiles iteration completed
+[03:56:01.514] (debug) src\DeviceWin.cpp:271: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: init done
+[03:56:01.514] (debug) src\ManagerWin.cpp:91: DeviceImpl created: \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:01.563] (debug) src\RunModeHandlerLicman.cpp:249: Using liclang ru
+[03:56:01.563] (debug) src\ManagerWin.cpp:32: isRecordingSupported returning true
+[03:56:03.908] (warning) PRController.cpp:456: Opening C:\Program Files (x86)\PHOTORECOVERY Professional 2015\DMD\DMD.exe in C:\Program Files (x86)\PHOTORECOVERY Professional 2015\
+[03:56:19.513] (debug) Win32\src\DeviceManagerImpl.cpp:418: buildMountPointMap: DR=C:\ VN=\\?\Volume{e1a8fc45-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:19.513] (debug) Win32\src\DeviceManagerImpl.cpp:418: buildMountPointMap: DR=D:\ VN=\\?\Volume{e1a8fc46-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:19.513] (debug) Win32\src\DeviceManagerImpl.cpp:418: buildMountPointMap: DR=E:\ VN=\\?\Volume{4ae33c89-48fd-11e5-831e-d8cb8a55db56}\
+[03:56:19.513] (debug) Win32\src\DeviceManagerImpl.cpp:418: buildMountPointMap: DR=F:\ VN=\\?\Volume{4ae33c8f-48fd-11e5-831e-d8cb8a55db56}\
+[03:56:19.513] (debug) Win32\src\DeviceManagerImpl.cpp:418: buildMountPointMap: DR=G:\ VN=\\?\Volume{2180504b-4dd8-11e5-a77b-d8cb8a55db56}\
+[03:56:19.513] (warning) Win32\src\DeviceManagerImpl.cpp:413: GetVolumeNameForVolumeMountPointW 'H:\': 87
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: DTSOFTBUS&REV1\DTCDROM&REV1\1&79F5D87&0&00####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\00000073
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName DTSOFTBUS&REV1
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:15:   Class CDROM
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 0
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 0
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 2147483647
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {4d36e965-e325-11ce-bfc1-08002be10318}\0000
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7601.17514
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:26:   VolumeDIPath \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: STORAGE\VOLUME\{7446C840-4AB5-11E5-8D4B-806E6F6E6963}#0000000000200000####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\HarddiskVolume4
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName STORAGE
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:15:   Class Volume
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 1
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 2097152
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 536870912000
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {71a27cdd-812a-11d0-bec7-08002be2092f}\0014
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7601.17514
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:26:   VolumeDIPath \\?\storage#volume#{7446c840-4ab5-11e5-8d4b-806e6f6e6963}#0000000000200000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: STORAGE\VOLUME\{7446C840-4AB5-11E5-8D4B-806E6F6E6963}#0000007D00300000####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\HarddiskVolume5
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName STORAGE
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:15:   Class Volume
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 1
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 536874057728
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 463329034240
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {71a27cdd-812a-11d0-bec7-08002be2092f}\0013
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7601.17514
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:26:   VolumeDIPath \\?\storage#volume#{7446c840-4ab5-11e5-8d4b-806e6f6e6963}#0000007d00300000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000000100000####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\HarddiskVolume1
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName STORAGE
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:15:   Class Volume
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 0
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 1048576
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 104857600
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {71a27cdd-812a-11d0-bec7-08002be2092f}\0004
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7601.17514
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:26:   VolumeDIPath \\?\storage#volume#{91369c40-48f9-11e5-a017-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000006500000####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\HarddiskVolume2
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName STORAGE
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:15:   Class Volume
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 0
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 105906176
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 52323942400
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {71a27cdd-812a-11d0-bec7-08002be2092f}\0005
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7601.17514
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:26:   VolumeDIPath \\?\storage#volume#{91369c40-48f9-11e5-a017-806e6f6e6963}#0000000006500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000C35100000####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\HarddiskVolume3
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName STORAGE
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:15:   Class Volume
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 0
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 52429848576
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 67602743296
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {71a27cdd-812a-11d0-bec7-08002be2092f}\0006
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7601.17514
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:26:   VolumeDIPath \\?\storage#volume#{91369c40-48f9-11e5-a017-806e6f6e6963}#0000000c35100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: DTSOFTBUS&REV1\DTCDROM&REV1\1&79F5D87&0&00####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\00000073
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName DTSOFTBUS&REV1
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:15:   Class CDROM
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 0
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 0
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 2147483647
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {4d36e965-e325-11ce-bfc1-08002be10318}\0000
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7601.17514
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:32:   CDROMDIPath \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: SCSI\DISK&VEN_KINGSTON&PROD_SV300S37A120G\4&BB36D01&0&040000####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\0000006e
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName SCSI
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:15:   Class DiskDrive
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 0
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 1048576
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 104857600
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[1] 0
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[1] 105906176
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:19:   Length[1] 52323942400
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[2] 0
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[2] 52429848576
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:19:   Length[2] 67602743296
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {4d36e967-e325-11ce-bfc1-08002be10318}\0002
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7600.16385
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:29:   DiskDIPath \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: SCSI\DISK&VEN_WD_____&PROD_WD10EZEX-75M2NA0\4&BB36D01&0&050000####
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\0000006f
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName SCSI
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:15:   Class DiskDrive
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 1
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 1048576
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 1000202043392
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[1] 1
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[1] 2097152
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:19:   Length[1] 536870912000
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[2] 1
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[2] 536873009152
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:19:   Length[2] 463330082816
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[3] 1
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[3] 536874057728
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:19:   Length[3] 463329034240
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {4d36e967-e325-11ce-bfc1-08002be10318}\0006
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7600.16385
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:29:   DiskDIPath \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.529] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:19.529] (debug) Win32\src\LogicalDeviceImpl.cpp:118: VNFVMP \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\ -> \\?\Volume{2180504b-4dd8-11e5-a77b-d8cb8a55db56}\
+[03:56:19.529] (debug) Win32\src\DeviceManagerImpl.cpp:370: Matching MP for \\?\Volume{2180504b-4dd8-11e5-a77b-d8cb8a55db56}\
+[03:56:19.529] (debug) Win32\src\DeviceManagerImpl.cpp:373: Matched \\?\Volume{2180504b-4dd8-11e5-a77b-d8cb8a55db56}\ to G:\
+[03:56:19.529] (debug) Win32\src\LogicalDeviceImpl.cpp:118: VNFVMP \\?\storage#volume#{7446c840-4ab5-11e5-8d4b-806e6f6e6963}#0000000000200000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\ -> \\?\Volume{4ae33c89-48fd-11e5-831e-d8cb8a55db56}\
+[03:56:19.529] (debug) Win32\src\DeviceManagerImpl.cpp:370: Matching MP for \\?\Volume{4ae33c89-48fd-11e5-831e-d8cb8a55db56}\
+[03:56:19.529] (debug) Win32\src\DeviceManagerImpl.cpp:373: Matched \\?\Volume{4ae33c89-48fd-11e5-831e-d8cb8a55db56}\ to E:\
+[03:56:19.529] (debug) Win32\src\LogicalDeviceImpl.cpp:118: VNFVMP \\?\storage#volume#{7446c840-4ab5-11e5-8d4b-806e6f6e6963}#0000007d00300000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\ -> \\?\Volume{4ae33c8f-48fd-11e5-831e-d8cb8a55db56}\
+[03:56:19.529] (debug) Win32\src\DeviceManagerImpl.cpp:370: Matching MP for \\?\Volume{4ae33c8f-48fd-11e5-831e-d8cb8a55db56}\
+[03:56:19.529] (debug) Win32\src\DeviceManagerImpl.cpp:373: Matched \\?\Volume{4ae33c8f-48fd-11e5-831e-d8cb8a55db56}\ to F:\
+[03:56:19.529] (debug) Win32\src\LogicalDeviceImpl.cpp:118: VNFVMP \\?\storage#volume#{91369c40-48f9-11e5-a017-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\ -> \\?\Volume{e1a8fc44-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:19.529] (debug) Win32\src\DeviceManagerImpl.cpp:370: Matching MP for \\?\Volume{e1a8fc44-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:19.529] (debug) Win32\src\LogicalDeviceImpl.cpp:118: VNFVMP \\?\storage#volume#{91369c40-48f9-11e5-a017-806e6f6e6963}#0000000006500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\ -> \\?\Volume{e1a8fc45-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:19.529] (debug) Win32\src\DeviceManagerImpl.cpp:370: Matching MP for \\?\Volume{e1a8fc45-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:19.529] (debug) Win32\src\DeviceManagerImpl.cpp:373: Matched \\?\Volume{e1a8fc45-48ef-11e5-b0af-806e6f6e6963}\ to C:\
+[03:56:19.529] (debug) Win32\src\LogicalDeviceImpl.cpp:118: VNFVMP \\?\storage#volume#{91369c40-48f9-11e5-a017-806e6f6e6963}#0000000c35100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\ -> \\?\Volume{e1a8fc46-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:19.529] (debug) Win32\src\DeviceManagerImpl.cpp:370: Matching MP for \\?\Volume{e1a8fc46-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:19.529] (debug) Win32\src\DeviceManagerImpl.cpp:373: Matched \\?\Volume{e1a8fc46-48ef-11e5-b0af-806e6f6e6963}\ to D:\
+[03:56:19.529] (debug) Win32\src\PhysicalDeviceImpl.cpp:194: STORAGE_DEVICE_DESCRIPTOR: 15 \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.529] (debug) src\DeviceOperationManagerWin.cpp:43: open, 0352DB80, \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.529] (debug) src\DeviceOperationManagerWin.cpp:117: OK: CF A RWD \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.529] (warning) src\DeviceOperationManagerWin.cpp:225: Unhandled DeviceType 51
+[03:56:19.529] (warning) src\DeviceOperationManagerWin.cpp:55: Failed to determine device type for \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: 0
+[03:56:19.529] (debug) src\DeviceOperationManager.cpp:12: Impl open returned persistent 2
+[03:56:19.529] (debug) Win32\src\PhysicalDeviceImpl.cpp:82: PD:DTSOFTBUS&REV1\DTCDROM&REV1\1&79F5D87&0&00: Vendor 'DTSOFT  ' Model 'BDROM           ' Serial '' Revision '1.05'
+[03:56:19.529] (debug) Win32\src\PhysicalDeviceImpl.cpp:194: STORAGE_DEVICE_DESCRIPTOR: 11 \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.529] (debug) src\DeviceOperationManagerWin.cpp:43: open, 0352DB80, \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.529] (debug) src\DeviceOperationManagerWin.cpp:117: OK: CF A RWD \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.544] (debug) src\DeviceOperationManagerWin.cpp:819: =======================
+[03:56:19.544] (debug) src\DeviceOperationManagerWin.cpp:820: ==== Starting probe of \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.544] (debug) src\DeviceOperationManagerWin.cpp:555: Probe: ATA direct IDENTIFY DEVICE (MS 0) on \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.544] (debug) src\DeviceOperationManagerWin.cpp:560: Probe OK: ATA direct IDENTIFY DEVICE (MS 0) on \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} succeeded
+[03:56:19.544] (debug) src\DeviceOperationManagerWin.cpp:856: ==== Completed probe of \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} - Device type 2 Access method 1
+[03:56:19.544] (debug) src\DeviceOperationManagerWin.cpp:857: =======================
+[03:56:19.544] (debug) src\DeviceOperationManagerWin.cpp:68: Opened \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} DeviceType 2
+[03:56:19.544] (debug) Win32\src\PhysicalDeviceImpl.cpp:342: \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} DIOCTL SMART_SEND_DRIVE_COMMAND ENABLE_SMART
+[03:56:19.560] (debug) Win32\src\PhysicalDeviceImpl.cpp:347: \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} DIOCTL SMART_SEND_DRIVE_COMMAND ENABLE_SMART OK
+[03:56:19.560] (debug) Win32\src\PhysicalDeviceImpl.cpp:362: Attempting SMART IDENTIFY on \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.560] (debug) Win32\src\PhysicalDeviceImpl.cpp:367: SMART IDENTIFY on \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} succeeded, DeviceType is pdtFixedDisk
+[03:56:19.560] (debug) Win32\src\PhysicalDeviceImpl.cpp:82: PD:SCSI\DISK&VEN_KINGSTON&PROD_SV300S37A120G\4&BB36D01&0&040000: Vendor '' Model 'KINGSTON SV300S37A120G' Serial '50026B7256034300' Revision '603ABBF0'
+[03:56:19.560] (debug) Win32\src\PhysicalDeviceImpl.cpp:194: STORAGE_DEVICE_DESCRIPTOR: 11 \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.560] (debug) src\DeviceOperationManagerWin.cpp:43: open, 0352DC88, \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.560] (debug) src\DeviceOperationManagerWin.cpp:117: OK: CF A RWD \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.560] (debug) src\DeviceOperationManagerWin.cpp:819: =======================
+[03:56:19.560] (debug) src\DeviceOperationManagerWin.cpp:820: ==== Starting probe of \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.560] (debug) src\DeviceOperationManagerWin.cpp:555: Probe: ATA direct IDENTIFY DEVICE (MS 0) on \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:19.561] (debug) src\DeviceOperationManagerWin.cpp:560: Probe OK: ATA direct IDENTIFY DEVICE (MS 0) on \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} succeeded
+[03:56:19.561] (debug) src\DeviceOperationManagerWin.cpp:856: ==== Completed probe of \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} - Device type 2 Access method 1
+[03:56:19.561] (debug) src\DeviceOperationManagerWin.cpp:857: =======================
+[03:56:19.561] (debug) src\DeviceOperationManagerWin.cpp:68: Opened \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} DeviceType 2
+[03:56:19.561] (debug) Win32\src\PhysicalDeviceImpl.cpp:342: \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} DIOCTL SMART_SEND_DRIVE_COMMAND ENABLE_SMART
+[03:56:20.081] (debug) Win32\src\PhysicalDeviceImpl.cpp:347: \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} DIOCTL SMART_SEND_DRIVE_COMMAND ENABLE_SMART OK
+[03:56:20.081] (debug) Win32\src\PhysicalDeviceImpl.cpp:362: Attempting SMART IDENTIFY on \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:20.081] (debug) Win32\src\PhysicalDeviceImpl.cpp:367: SMART IDENTIFY on \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} succeeded, DeviceType is pdtFixedDisk
+[03:56:20.081] (debug) Win32\src\PhysicalDeviceImpl.cpp:82: PD:SCSI\DISK&VEN_WD_____&PROD_WD10EZEX-75M2NA0\4&BB36D01&0&050000: Vendor '' Model 'WDC WD10EZEX-75M2NA0' Serial 'WD-WCC3F5AE0FKK' Revision '01.01A01'
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:285: ==BEGIN PHYSICAL DEVICE MAP==
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:288:   PD:DTSOFTBUS&REV1\DTCDROM&REV1\1&79F5D87&0&00
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:290:     LD:DTSOFTBUS&REV1\DTCDROM&REV1\1&79F5D87&0&00
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:294:       G:\
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:288:   PD:SCSI\DISK&VEN_KINGSTON&PROD_SV300S37A120G\4&BB36D01&0&040000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:290:     LD:STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000000100000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:290:     LD:STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000006500000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:294:       C:\
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:290:     LD:STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000C35100000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:294:       D:\
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:288:   PD:SCSI\DISK&VEN_WD_____&PROD_WD10EZEX-75M2NA0\4&BB36D01&0&050000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:290:     LD:STORAGE\VOLUME\{7446C840-4AB5-11E5-8D4B-806E6F6E6963}#0000000000200000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:294:       E:\
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:290:     LD:STORAGE\VOLUME\{7446C840-4AB5-11E5-8D4B-806E6F6E6963}#0000007D00300000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:294:       F:\
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:299: ==END PHYSICAL DEVICE MAP==
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:300: ==BEGIN LOGICAL DEVICE MAP==
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:303:   LD:DTSOFTBUS&REV1\DTCDROM&REV1\1&79F5D87&0&00
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:305:     G:\
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:308:     PD:DTSOFTBUS&REV1\DTCDROM&REV1\1&79F5D87&0&00
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:303:   LD:STORAGE\VOLUME\{7446C840-4AB5-11E5-8D4B-806E6F6E6963}#0000000000200000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:305:     E:\
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:308:     PD:SCSI\DISK&VEN_WD_____&PROD_WD10EZEX-75M2NA0\4&BB36D01&0&050000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:303:   LD:STORAGE\VOLUME\{7446C840-4AB5-11E5-8D4B-806E6F6E6963}#0000007D00300000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:305:     F:\
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:308:     PD:SCSI\DISK&VEN_WD_____&PROD_WD10EZEX-75M2NA0\4&BB36D01&0&050000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:303:   LD:STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000000100000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:308:     PD:SCSI\DISK&VEN_KINGSTON&PROD_SV300S37A120G\4&BB36D01&0&040000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:303:   LD:STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000006500000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:305:     C:\
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:308:     PD:SCSI\DISK&VEN_KINGSTON&PROD_SV300S37A120G\4&BB36D01&0&040000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:303:   LD:STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000C35100000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:305:     D:\
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:308:     PD:SCSI\DISK&VEN_KINGSTON&PROD_SV300S37A120G\4&BB36D01&0&040000
+[03:56:20.081] (debug) Win32\src\DeviceManagerImpl.cpp:311: ==END LOGICAL DEVICE MAP==
+[03:56:20.097] (debug) src\WorkDirectories.cpp:335: MP 0: E:\
+[03:56:20.097] (debug) src\WorkDirectories.cpp:335: MP 0: F:\
+[03:56:20.097] (debug) src\WorkDirectories.cpp:335: MP 0: C:\
+[03:56:20.097] (debug) src\WorkDirectories.cpp:335: MP 0: D:\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:418: buildMountPointMap: DR=C:\ VN=\\?\Volume{e1a8fc45-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:418: buildMountPointMap: DR=D:\ VN=\\?\Volume{e1a8fc46-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:418: buildMountPointMap: DR=E:\ VN=\\?\Volume{4ae33c89-48fd-11e5-831e-d8cb8a55db56}\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:418: buildMountPointMap: DR=F:\ VN=\\?\Volume{4ae33c8f-48fd-11e5-831e-d8cb8a55db56}\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:418: buildMountPointMap: DR=G:\ VN=\\?\Volume{2180504b-4dd8-11e5-a77b-d8cb8a55db56}\
+[03:56:28.157] (warning) Win32\src\DeviceManagerImpl.cpp:413: GetVolumeNameForVolumeMountPointW 'H:\': 87
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: DTSOFTBUS&REV1\DTCDROM&REV1\1&79F5D87&0&00####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\00000073
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName DTSOFTBUS&REV1
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:15:   Class CDROM
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 0
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 0
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 2147483647
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {4d36e965-e325-11ce-bfc1-08002be10318}\0000
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7601.17514
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:26:   VolumeDIPath \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: STORAGE\VOLUME\{7446C840-4AB5-11E5-8D4B-806E6F6E6963}#0000000000200000####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\HarddiskVolume4
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName STORAGE
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:15:   Class Volume
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 1
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 2097152
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 536870912000
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {71a27cdd-812a-11d0-bec7-08002be2092f}\0014
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7601.17514
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:26:   VolumeDIPath \\?\storage#volume#{7446c840-4ab5-11e5-8d4b-806e6f6e6963}#0000000000200000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: STORAGE\VOLUME\{7446C840-4AB5-11E5-8D4B-806E6F6E6963}#0000007D00300000####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\HarddiskVolume5
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName STORAGE
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:15:   Class Volume
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 1
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 536874057728
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 463329034240
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {71a27cdd-812a-11d0-bec7-08002be2092f}\0013
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7601.17514
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:26:   VolumeDIPath \\?\storage#volume#{7446c840-4ab5-11e5-8d4b-806e6f6e6963}#0000007d00300000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000000100000####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\HarddiskVolume1
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName STORAGE
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:15:   Class Volume
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 0
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 1048576
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 104857600
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {71a27cdd-812a-11d0-bec7-08002be2092f}\0004
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7601.17514
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:26:   VolumeDIPath \\?\storage#volume#{91369c40-48f9-11e5-a017-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000006500000####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\HarddiskVolume2
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName STORAGE
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:15:   Class Volume
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 0
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 105906176
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 52323942400
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {71a27cdd-812a-11d0-bec7-08002be2092f}\0005
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7601.17514
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:26:   VolumeDIPath \\?\storage#volume#{91369c40-48f9-11e5-a017-806e6f6e6963}#0000000006500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000C35100000####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\HarddiskVolume3
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName STORAGE
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:15:   Class Volume
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 0
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 52429848576
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 67602743296
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {71a27cdd-812a-11d0-bec7-08002be2092f}\0006
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7601.17514
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:26:   VolumeDIPath \\?\storage#volume#{91369c40-48f9-11e5-a017-806e6f6e6963}#0000000c35100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: DTSOFTBUS&REV1\DTCDROM&REV1\1&79F5D87&0&00####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\00000073
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName DTSOFTBUS&REV1
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:15:   Class CDROM
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 0
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 0
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 2147483647
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {4d36e965-e325-11ce-bfc1-08002be10318}\0000
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7601.17514
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:32:   CDROMDIPath \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: SCSI\DISK&VEN_KINGSTON&PROD_SV300S37A120G\4&BB36D01&0&040000####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\0000006e
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName SCSI
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:15:   Class DiskDrive
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 0
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 1048576
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 104857600
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[1] 0
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[1] 105906176
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:19:   Length[1] 52323942400
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[2] 0
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[2] 52429848576
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:19:   Length[2] 67602743296
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {4d36e967-e325-11ce-bfc1-08002be10318}\0002
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7600.16385
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:29:   DiskDIPath \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:12: ### START DUMP InstanceID: SCSI\DISK&VEN_WD_____&PROD_WD10EZEX-75M2NA0\4&BB36D01&0&050000####
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:13:   PhysicalDeviceObjectName \Device\0000006f
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:14:   EnumeratorName SCSI
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:15:   Class DiskDrive
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[0] 1
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[0] 1048576
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:19:   Length[0] 1000202043392
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[1] 1
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[1] 2097152
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:19:   Length[1] 536870912000
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[2] 1
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[2] 536873009152
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:19:   Length[2] 463330082816
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:17:   DiskNumber[3] 1
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:18:   Offset[3] 536874057728
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:19:   Length[3] 463329034240
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:21:   DriverName {4d36e967-e325-11ce-bfc1-08002be10318}\0006
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:22:   ProviderName Microsoft
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:23:   DriverDate 6-21-2006
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:24:   DriverVersion 6.1.7600.16385
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:29:   DiskDIPath \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.157] (debug) Win32\src\DeviceInfo.cpp:40: ### END DUMP ####
+[03:56:28.157] (debug) Win32\src\LogicalDeviceImpl.cpp:118: VNFVMP \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\ -> \\?\Volume{2180504b-4dd8-11e5-a77b-d8cb8a55db56}\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:370: Matching MP for \\?\Volume{2180504b-4dd8-11e5-a77b-d8cb8a55db56}\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:373: Matched \\?\Volume{2180504b-4dd8-11e5-a77b-d8cb8a55db56}\ to G:\
+[03:56:28.157] (debug) Win32\src\LogicalDeviceImpl.cpp:118: VNFVMP \\?\storage#volume#{7446c840-4ab5-11e5-8d4b-806e6f6e6963}#0000000000200000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\ -> \\?\Volume{4ae33c89-48fd-11e5-831e-d8cb8a55db56}\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:370: Matching MP for \\?\Volume{4ae33c89-48fd-11e5-831e-d8cb8a55db56}\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:373: Matched \\?\Volume{4ae33c89-48fd-11e5-831e-d8cb8a55db56}\ to E:\
+[03:56:28.157] (debug) Win32\src\LogicalDeviceImpl.cpp:118: VNFVMP \\?\storage#volume#{7446c840-4ab5-11e5-8d4b-806e6f6e6963}#0000007d00300000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\ -> \\?\Volume{4ae33c8f-48fd-11e5-831e-d8cb8a55db56}\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:370: Matching MP for \\?\Volume{4ae33c8f-48fd-11e5-831e-d8cb8a55db56}\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:373: Matched \\?\Volume{4ae33c8f-48fd-11e5-831e-d8cb8a55db56}\ to F:\
+[03:56:28.157] (debug) Win32\src\LogicalDeviceImpl.cpp:118: VNFVMP \\?\storage#volume#{91369c40-48f9-11e5-a017-806e6f6e6963}#0000000000100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\ -> \\?\Volume{e1a8fc44-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:370: Matching MP for \\?\Volume{e1a8fc44-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:28.157] (debug) Win32\src\LogicalDeviceImpl.cpp:118: VNFVMP \\?\storage#volume#{91369c40-48f9-11e5-a017-806e6f6e6963}#0000000006500000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\ -> \\?\Volume{e1a8fc45-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:370: Matching MP for \\?\Volume{e1a8fc45-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:373: Matched \\?\Volume{e1a8fc45-48ef-11e5-b0af-806e6f6e6963}\ to C:\
+[03:56:28.157] (debug) Win32\src\LogicalDeviceImpl.cpp:118: VNFVMP \\?\storage#volume#{91369c40-48f9-11e5-a017-806e6f6e6963}#0000000c35100000#{53f5630d-b6bf-11d0-94f2-00a0c91efb8b}\ -> \\?\Volume{e1a8fc46-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:370: Matching MP for \\?\Volume{e1a8fc46-48ef-11e5-b0af-806e6f6e6963}\
+[03:56:28.157] (debug) Win32\src\DeviceManagerImpl.cpp:373: Matched \\?\Volume{e1a8fc46-48ef-11e5-b0af-806e6f6e6963}\ to D:\
+[03:56:28.157] (debug) Win32\src\PhysicalDeviceImpl.cpp:194: STORAGE_DEVICE_DESCRIPTOR: 15 \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.157] (debug) src\DeviceOperationManagerWin.cpp:43: open, 0352D4A0, \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.157] (debug) src\DeviceOperationManagerWin.cpp:117: OK: CF A RWD \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.157] (warning) src\DeviceOperationManagerWin.cpp:225: Unhandled DeviceType 51
+[03:56:28.157] (warning) src\DeviceOperationManagerWin.cpp:55: Failed to determine device type for \\?\dtsoftbus&rev1#dtcdrom&rev1#1&79f5d87&0&00#{53f56308-b6bf-11d0-94f2-00a0c91efb8b}: 0
+[03:56:28.157] (debug) src\DeviceOperationManager.cpp:12: Impl open returned persistent 2
+[03:56:28.157] (debug) Win32\src\PhysicalDeviceImpl.cpp:82: PD:DTSOFTBUS&REV1\DTCDROM&REV1\1&79F5D87&0&00: Vendor 'DTSOFT  ' Model 'BDROM           ' Serial '' Revision '1.05'
+[03:56:28.157] (debug) Win32\src\PhysicalDeviceImpl.cpp:194: STORAGE_DEVICE_DESCRIPTOR: 11 \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.157] (debug) src\DeviceOperationManagerWin.cpp:43: open, 0352D4A0, \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.157] (debug) src\DeviceOperationManagerWin.cpp:117: OK: CF A RWD \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.173] (debug) src\DeviceOperationManagerWin.cpp:819: =======================
+[03:56:28.173] (debug) src\DeviceOperationManagerWin.cpp:820: ==== Starting probe of \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.173] (debug) src\DeviceOperationManagerWin.cpp:555: Probe: ATA direct IDENTIFY DEVICE (MS 0) on \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.173] (debug) src\DeviceOperationManagerWin.cpp:560: Probe OK: ATA direct IDENTIFY DEVICE (MS 0) on \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} succeeded
+[03:56:28.173] (debug) src\DeviceOperationManagerWin.cpp:856: ==== Completed probe of \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} - Device type 2 Access method 1
+[03:56:28.173] (debug) src\DeviceOperationManagerWin.cpp:857: =======================
+[03:56:28.173] (debug) src\DeviceOperationManagerWin.cpp:68: Opened \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} DeviceType 2
+[03:56:28.173] (debug) Win32\src\PhysicalDeviceImpl.cpp:342: \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} DIOCTL SMART_SEND_DRIVE_COMMAND ENABLE_SMART
+[03:56:28.188] (debug) Win32\src\PhysicalDeviceImpl.cpp:347: \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} DIOCTL SMART_SEND_DRIVE_COMMAND ENABLE_SMART OK
+[03:56:28.188] (debug) Win32\src\PhysicalDeviceImpl.cpp:362: Attempting SMART IDENTIFY on \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.188] (debug) Win32\src\PhysicalDeviceImpl.cpp:367: SMART IDENTIFY on \\?\scsi#disk&ven_kingston&prod_sv300s37a120g#4&bb36d01&0&040000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} succeeded, DeviceType is pdtFixedDisk
+[03:56:28.188] (debug) Win32\src\PhysicalDeviceImpl.cpp:82: PD:SCSI\DISK&VEN_KINGSTON&PROD_SV300S37A120G\4&BB36D01&0&040000: Vendor '' Model 'KINGSTON SV300S37A120G' Serial '50026B7256034300' Revision '603ABBF0'
+[03:56:28.188] (debug) Win32\src\PhysicalDeviceImpl.cpp:194: STORAGE_DEVICE_DESCRIPTOR: 11 \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.188] (debug) src\DeviceOperationManagerWin.cpp:43: open, 0352E5D0, \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.188] (debug) src\DeviceOperationManagerWin.cpp:117: OK: CF A RWD \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.188] (debug) src\DeviceOperationManagerWin.cpp:819: =======================
+[03:56:28.188] (debug) src\DeviceOperationManagerWin.cpp:820: ==== Starting probe of \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.188] (debug) src\DeviceOperationManagerWin.cpp:555: Probe: ATA direct IDENTIFY DEVICE (MS 0) on \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.188] (debug) src\DeviceOperationManagerWin.cpp:560: Probe OK: ATA direct IDENTIFY DEVICE (MS 0) on \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} succeeded
+[03:56:28.188] (debug) src\DeviceOperationManagerWin.cpp:856: ==== Completed probe of \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} - Device type 2 Access method 1
+[03:56:28.188] (debug) src\DeviceOperationManagerWin.cpp:857: =======================
+[03:56:28.188] (debug) src\DeviceOperationManagerWin.cpp:68: Opened \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} DeviceType 2
+[03:56:28.188] (debug) Win32\src\PhysicalDeviceImpl.cpp:342: \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} DIOCTL SMART_SEND_DRIVE_COMMAND ENABLE_SMART
+[03:56:28.219] (debug) Win32\src\PhysicalDeviceImpl.cpp:347: \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} DIOCTL SMART_SEND_DRIVE_COMMAND ENABLE_SMART OK
+[03:56:28.219] (debug) Win32\src\PhysicalDeviceImpl.cpp:362: Attempting SMART IDENTIFY on \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}
+[03:56:28.219] (debug) Win32\src\PhysicalDeviceImpl.cpp:367: SMART IDENTIFY on \\?\scsi#disk&ven_wd_____&prod_wd10ezex-75m2na0#4&bb36d01&0&050000#{53f56307-b6bf-11d0-94f2-00a0c91efb8b} succeeded, DeviceType is pdtFixedDisk
+[03:56:28.219] (debug) Win32\src\PhysicalDeviceImpl.cpp:82: PD:SCSI\DISK&VEN_WD_____&PROD_WD10EZEX-75M2NA0\4&BB36D01&0&050000: Vendor '' Model 'WDC WD10EZEX-75M2NA0' Serial 'WD-WCC3F5AE0FKK' Revision '01.01A01'
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:285: ==BEGIN PHYSICAL DEVICE MAP==
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:288:   PD:DTSOFTBUS&REV1\DTCDROM&REV1\1&79F5D87&0&00
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:290:     LD:DTSOFTBUS&REV1\DTCDROM&REV1\1&79F5D87&0&00
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:294:       G:\
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:288:   PD:SCSI\DISK&VEN_KINGSTON&PROD_SV300S37A120G\4&BB36D01&0&040000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:290:     LD:STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000000100000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:290:     LD:STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000006500000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:294:       C:\
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:290:     LD:STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000C35100000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:294:       D:\
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:288:   PD:SCSI\DISK&VEN_WD_____&PROD_WD10EZEX-75M2NA0\4&BB36D01&0&050000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:290:     LD:STORAGE\VOLUME\{7446C840-4AB5-11E5-8D4B-806E6F6E6963}#0000000000200000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:294:       E:\
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:290:     LD:STORAGE\VOLUME\{7446C840-4AB5-11E5-8D4B-806E6F6E6963}#0000007D00300000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:294:       F:\
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:299: ==END PHYSICAL DEVICE MAP==
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:300: ==BEGIN LOGICAL DEVICE MAP==
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:303:   LD:DTSOFTBUS&REV1\DTCDROM&REV1\1&79F5D87&0&00
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:305:     G:\
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:308:     PD:DTSOFTBUS&REV1\DTCDROM&REV1\1&79F5D87&0&00
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:303:   LD:STORAGE\VOLUME\{7446C840-4AB5-11E5-8D4B-806E6F6E6963}#0000000000200000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:305:     E:\
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:308:     PD:SCSI\DISK&VEN_WD_____&PROD_WD10EZEX-75M2NA0\4&BB36D01&0&050000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:303:   LD:STORAGE\VOLUME\{7446C840-4AB5-11E5-8D4B-806E6F6E6963}#0000007D00300000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:305:     F:\
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:308:     PD:SCSI\DISK&VEN_WD_____&PROD_WD10EZEX-75M2NA0\4&BB36D01&0&050000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:303:   LD:STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000000100000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:308:     PD:SCSI\DISK&VEN_KINGSTON&PROD_SV300S37A120G\4&BB36D01&0&040000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:303:   LD:STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000006500000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:305:     C:\
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:308:     PD:SCSI\DISK&VEN_KINGSTON&PROD_SV300S37A120G\4&BB36D01&0&040000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:303:   LD:STORAGE\VOLUME\{91369C40-48F9-11E5-A017-806E6F6E6963}#0000000C35100000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:305:     D:\
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:308:     PD:SCSI\DISK&VEN_KINGSTON&PROD_SV300S37A120G\4&BB36D01&0&040000
+[03:56:28.219] (debug) Win32\src\DeviceManagerImpl.cpp:311: ==END LOGICAL DEVICE MAP==
+[03:56:38.253] (debug) src\PRBaseController.cpp:787: ==== Start Scan ====
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : 3FR
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : ANI
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : ANIM
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : ANM
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : ARW
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : BMP
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : BMPRaw
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : CDD
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : CDR
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : CDT
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : CGD
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : CGG
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : CGT
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : CMX
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : CR2
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : CRW
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : CS1
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : CV5
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : DC2
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : DCR
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : DLS
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : DNG
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : EMF
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : ERF
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : ExifJPEG
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : FFF
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : FH3
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : FH8
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : FH9
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : GIF
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : GenericJPEG
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : HDR
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : IA
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : ILBM
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : IMG
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : JFIFJPEG
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : JP2
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : JPM
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : JPX
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : K25
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : KDC
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : KodakCommonInfoRAW
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : LeicaPanasonicRAW
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : MAC
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : MAF
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : MEF
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : MOS
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : MRW
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : NDF
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : NEF
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : NRW
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : ORF
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : PAT
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : PCX
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : PEF
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : PIC
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : PNG
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : PP5
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : PSD
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : PSP
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : PhaseOneRawTIF
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : QTK
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : RAF
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : RW2
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : SFW
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : SR2
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : SRF
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : STI
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : TEX
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : TIFF
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : UPI
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : WEBP
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : WMF
+[03:56:38.253] (debug) src\PRBaseController.cpp:790: ENABLED : X3F
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: 3G2
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: 3GP
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: ASF
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: AVI
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: F4P
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: F4V
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: FLV
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: M4V
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MJ2S
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MJP2
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MLV
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MOD
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MOV
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MP4
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MPEG1
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MPEG2
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MSNV
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MTS
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MXF
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: R3D
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: RMV
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: SKM
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: WMV
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: 16SV
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: 8SVX
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: AAC
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: AIFC
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: AIFF
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: AMR
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: AU
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: DS2
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: DSS
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: F4A
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: F4B
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: M4A
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: M4B
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: M4P
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MID
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MP3
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MSV
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: OGG
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: PalmMidiPDB
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: RA
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: RMA
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: RMI
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: VOC
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: WAV
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: WMA
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: 123
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: 12M
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: 3DM
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: ADM
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: AFM
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: AI
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: APD
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: AW
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: BDR
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: BOO
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: BQY
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: BTR
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: CCP
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: CHM
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: CLASS
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: CLX
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: CNT
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: CPI
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: CRV
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: CVI
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: CWL
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: DCA
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: DLL
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: DOC
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: DOCX
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: DOT
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: DRW
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: DSN
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: DUN
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: DWG
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: DXF
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: EBX
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: ECF
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: EDB
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: EPS
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: EXE
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: EudoraMBX
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: FFX
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: FM
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: FM3
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: FMB
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: FTS1
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: FTS2
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: HLP
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: ICM
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: ICW
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: IDF
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: IDX
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: IFF
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: ILK
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: IND
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: ISU
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: JTD
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: LDB
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: LIB
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: LNK
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: LWP
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: LotusFMT
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MBD
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MBW
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MCD
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MDB
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MIF
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MPD
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MapGuidePDB
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MicrosoftFMT
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: MicrosoftPDB
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: NLM
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: NSF
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: NTF
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: OTP
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: OutlookMBX
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: P3C
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: PBD
+[03:56:38.253] (debug) src\PRBaseController.cpp:792: Disabled: PDF
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: PFB
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: PKR
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: PPC
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: PPT
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: PPTX
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: PRC1
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: PRC2
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: PRE
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: PRZ
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: PT
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: PUB
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: PWD
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: PWL
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: PWP
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: QBW
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: QDA
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: QXD
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: REG
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: RTF
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: RegistryData
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: SAM
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: SCC
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: SCD
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: SCM
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: SHX
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: SKR
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: SLB
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: SLD
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: SMI
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: SPA
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: SXC
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: TLB
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: TLX
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: TTF
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: URL
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: USR
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: VSD
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: WK1
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: WK3
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: WK4
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: WRI
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: XLS
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: XLSX
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: AR
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: ARJ
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: CAB
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: DEB
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: HQX
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: RAR
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: SIT
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: TAR
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: ZIP
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: ZOO
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: 68K
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: AdobeDCR
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: CUR
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: ICO
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: JAR
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: MPO
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: OLEStream
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: RIFF
+[03:56:38.269] (debug) src\PRBaseController.cpp:792: Disabled: SWF
+[03:56:38.269] (debug) src\PRBaseController.cpp:806: Scan Mode ContentOverlapping
